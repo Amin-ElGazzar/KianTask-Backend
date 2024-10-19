@@ -7,16 +7,24 @@
       "RelativeMoniker": "D:0:0:{B55224A9-5243-4A03-901B-65B5FC474E8C}|Kian\\Kian.csproj|solutionrelative:kian\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{B55224A9-5243-4A03-901B-65B5FC474E8C}|Kian\\Kian.csproj|c:\\users\\e9756\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\kian solultion task\\backend\\kian\\kian\\features\\employees\\deleteemployeecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B55224A9-5243-4A03-901B-65B5FC474E8C}|Kian\\Kian.csproj|solutionrelative:kian\\features\\employees\\deleteemployeecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B55224A9-5243-4A03-901B-65B5FC474E8C}|Kian\\Kian.csproj|c:\\users\\e9756\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\kian solultion task\\backend\\kian\\kian\\features\\employees\\getemployeequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B55224A9-5243-4A03-901B-65B5FC474E8C}|Kian\\Kian.csproj|solutionrelative:kian\\features\\employees\\getemployeequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B55224A9-5243-4A03-901B-65B5FC474E8C}|Kian\\Kian.csproj|c:\\users\\e9756\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\kian solultion task\\backend\\kian\\kian\\repositories\\employeesrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B55224A9-5243-4A03-901B-65B5FC474E8C}|Kian\\Kian.csproj|solutionrelative:kian\\repositories\\employeesrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B55224A9-5243-4A03-901B-65B5FC474E8C}|Kian\\Kian.csproj|c:\\users\\e9756\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\kian solultion task\\backend\\kian\\kian\\response\\responsehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B55224A9-5243-4A03-901B-65B5FC474E8C}|Kian\\Kian.csproj|solutionrelative:kian\\response\\responsehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B55224A9-5243-4A03-901B-65B5FC474E8C}|Kian\\Kian.csproj|c:\\users\\e9756\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\kian solultion task\\backend\\kian\\kian\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B55224A9-5243-4A03-901B-65B5FC474E8C}|Kian\\Kian.csproj|solutionrelative:kian\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B55224A9-5243-4A03-901B-65B5FC474E8C}|Kian\\Kian.csproj|c:\\users\\e9756\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\kian solultion task\\backend\\kian\\kian\\repositories\\employeesrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B55224A9-5243-4A03-901B-65B5FC474E8C}|Kian\\Kian.csproj|solutionrelative:kian\\repositories\\employeesrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,21 +34,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "EmployeesController.cs",
-              "DocumentMoniker": "C:\\Users\\e9756\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Kian Solultion Task\\backend\\Kian\\Kian\\Controllers\\EmployeesController.cs",
-              "RelativeDocumentMoniker": "Kian\\Controllers\\EmployeesController.cs",
-              "ToolTip": "C:\\Users\\e9756\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Kian Solultion Task\\backend\\Kian\\Kian\\Controllers\\EmployeesController.cs",
-              "RelativeToolTip": "Kian\\Controllers\\EmployeesController.cs",
-              "ViewState": "AQIAAB0AAAAAAAAAAAAgwDAAAABUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T18:54:53.26Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
@@ -59,7 +54,44 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "DeleteEmployeeCommand.cs",
+              "DocumentMoniker": "C:\\Users\\e9756\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Kian Solultion Task\\backend\\Kian\\Kian\\Features\\Employees\\DeleteEmployeeCommand.cs",
+              "RelativeDocumentMoniker": "Kian\\Features\\Employees\\DeleteEmployeeCommand.cs",
+              "ToolTip": "C:\\Users\\e9756\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Kian Solultion Task\\backend\\Kian\\Kian\\Features\\Employees\\DeleteEmployeeCommand.cs",
+              "RelativeToolTip": "Kian\\Features\\Employees\\DeleteEmployeeCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T07:10:39.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\e9756\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Kian Solultion Task\\backend\\Kian\\Kian\\Program.cs",
+              "RelativeDocumentMoniker": "Kian\\Program.cs",
+              "ToolTip": "C:\\Users\\e9756\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Kian Solultion Task\\backend\\Kian\\Kian\\Program.cs",
+              "RelativeToolTip": "Kian\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T20:55:37.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\e9756\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Kian Solultion Task\\backend\\Kian\\Kian\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "Kian\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\e9756\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Kian Solultion Task\\backend\\Kian\\Kian\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "Kian\\Controllers\\EmployeesController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAA3wC8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T18:54:53.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "EmployeesRepo.cs",
               "DocumentMoniker": "C:\\Users\\e9756\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Kian Solultion Task\\backend\\Kian\\Kian\\Repositories\\EmployeesRepo.cs",
               "RelativeDocumentMoniker": "Kian\\Repositories\\EmployeesRepo.cs",
@@ -67,8 +99,7 @@
               "RelativeToolTip": "Kian\\Repositories\\EmployeesRepo.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T16:09:54.024Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-18T16:09:54.024Z"
             },
             {
               "$type": "Document",
@@ -78,14 +109,13 @@
               "RelativeDocumentMoniker": "Kian\\Response\\ResponseHandler.cs",
               "ToolTip": "C:\\Users\\e9756\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Kian Solultion Task\\backend\\Kian\\Kian\\Response\\ResponseHandler.cs",
               "RelativeToolTip": "Kian\\Response\\ResponseHandler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwCQAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T16:05:21.606Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-18T16:05:21.606Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "GetEmployeeQuery.cs",
               "DocumentMoniker": "C:\\Users\\e9756\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Kian Solultion Task\\backend\\Kian\\Kian\\Features\\Employees\\GetEmployeeQuery.cs",
               "RelativeDocumentMoniker": "Kian\\Features\\Employees\\GetEmployeeQuery.cs",
@@ -93,8 +123,7 @@
               "RelativeToolTip": "Kian\\Features\\Employees\\GetEmployeeQuery.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAAAB0AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T15:56:51.134Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-18T15:56:51.134Z"
             }
           ]
         },

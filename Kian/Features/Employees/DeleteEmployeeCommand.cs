@@ -8,7 +8,11 @@ namespace Kian.Features.Employees
 {
     public class DeleteEmployeeCommand : IRequest<Response<string>>
     {
-        public int Id { get; set; }
+        public int Id { get; private set; }
+        public DeleteEmployeeCommand(int id)
+        {
+            this.Id = id;
+        }
     }
 
     public class DeleteEmployeeHandler : ResponseHandler<string>, IRequestHandler<DeleteEmployeeCommand, Response<string>>

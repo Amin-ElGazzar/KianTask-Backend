@@ -291,3 +291,4 @@ C:\Users\e9756\OneDrive\سطح المكتب\Kian Solultion Task\backend\Kian\Kia
 C:\Users\e9756\OneDrive\سطح المكتب\Kian Solultion Task\backend\Kian\Kian\obj\Debug\net8.0\ref\Kian.dll
 C:\Users\e9756\OneDrive\سطح المكتب\Kian Solultion Task\backend\Kian\Kian\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
 C:\Users\e9756\OneDrive\سطح المكتب\Kian Solultion Task\backend\Kian\Kian\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\e9756\OneDrive\سطح المكتب\Kian Solultion Task\backend\Kian\Kian\obj\Debug\net8.0\Kian.sourcelink.json

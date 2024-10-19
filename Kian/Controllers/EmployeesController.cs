@@ -46,7 +46,7 @@ namespace Kian.Controllers
         [HttpDelete("Delete/{id}")]
         public async Task<IActionResult> Delete([FromRoute] int id)
         {
-            var result = await _mediator.Send(new DeleteEmployeeCommand() { Id = id });
+            var result = await _mediator.Send(new DeleteEmployeeCommand(id));
             return GetResponse(result);
         }
 

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Kian")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2e5bba668a2cfe29f84604231890dd0a50bf3141")]
 [assembly: System.Reflection.AssemblyProductAttribute("Kian")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Kian")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
